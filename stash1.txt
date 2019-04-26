@@ -2,7 +2,4 @@ stash-1
 from local 1
 stash-1 from remote
 from local 2
-from local 3
 from local 3 & local4
-from local 3 & local4
-
