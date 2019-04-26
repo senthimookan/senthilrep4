@@ -1,2 +1,3 @@
 stash-1
 from local 1
+stash-1 from remote
