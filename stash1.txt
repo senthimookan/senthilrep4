@@ -2,8 +2,7 @@ stash-1
 from local 1
 stash-1 from remote
 from local 2
-<<<<<<< Updated upstream
 from local 3
-=======
 from local 3 & local4
->>>>>>> Stashed changes
+from local 3 & local4
+
